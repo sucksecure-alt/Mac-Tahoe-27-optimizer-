@@ -3,7 +3,7 @@
 Оптимизатор macOS для Apple Silicon.
 
 ## Сборка
-    cd HeartbleedOptimizer && ./build.sh
+    ./build.sh
 
 ## Запуск
     ./HeartbleedOptimizer.app/Contents/MacOS/HeartbleedOptimizer
@@ -12,3 +12,5 @@
 ## Требования
 - macOS Tahoe 26+
 - Command Line Tools: xcode-select --install (если будешь крафтить, а не dmg запускать)
+
+Heartbleed.ru / tg @heartbleeed
