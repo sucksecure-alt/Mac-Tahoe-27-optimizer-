@@ -7,6 +7,7 @@
 
 ## Запуск
     ./HeartbleedOptimizer.app/Contents/MacOS/HeartbleedOptimizer
+    или сразу .dmg файл запускай который приложил (может потребоваться отключение гейткиппера)
 
 ## Требования
 - macOS 14+
