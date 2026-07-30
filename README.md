@@ -10,5 +10,5 @@
     или сразу .dmg файл запускай который приложил (может потребоваться отключение гейткиппера)
 
 ## Требования
-- macOS 14+
-- Command Line Tools: xcode-select --install
+- macOS Tahoe 26+
+- Command Line Tools: xcode-select --install (если будешь крафтить, а не dmg запускать)
